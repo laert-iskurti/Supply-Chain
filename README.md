@@ -81,7 +81,7 @@ This Django project contains only one app, which is called 'game'.
 
 
 # Setup
-1. Install **MySQl** (if not currently installed)
+1. Install **MySQL** (if not currently installed)
 2. All the dependencies of this project can be found in requirements.txt file. In order to install them just run the command:
 ```
 pip install -r requirements.txt
