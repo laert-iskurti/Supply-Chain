@@ -71,8 +71,8 @@ This Django project contains only one app, which is called 'game'.
         settings.py
         urls.py
         wsgi.py
-    bonus.txt                       # some changes to the original specs
     db_model_django.txt             # explanations regarding the db
+    LICENSE
     manage.py
     README.md
     
