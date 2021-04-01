@@ -16,7 +16,7 @@ are assigned a role in the supply chain which can be the Factory, Distributor, W
 the game, each participant is making orders and receiving shipments with aim to fulfill the successor’s demand.
 Each group can highly influence the entire supply chain by ordering too much or too little which can lead to
 a bullwhip effect. Therefore, the order taking of a group also highly depends on decisions of the other groups.
-More information regarding the game can be found [here](http://scgames.bauer.uh.edu/)
+More information regarding the game can be found [here](http://scgames.bauer.uh.edu/). We have made an implementation of this game with Django, Html, Bootstrap.
 
 
 
